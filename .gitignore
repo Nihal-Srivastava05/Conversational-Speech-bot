@@ -1,5 +1,8 @@
 # Custom Files
 .ipynb_checkpoints/
+tmpdir_vocoder/
+tmpdir_tts/
+Temp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
